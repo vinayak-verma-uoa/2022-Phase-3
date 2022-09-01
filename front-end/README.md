@@ -12,7 +12,7 @@ To pass phase 3 for the front-end, you will need to have any __five__ of the fol
 * Mobile first development (using media query breakpoints, etc)
 * Storybook w/ both actions and interactions (play)
 * Progressive Web App (PWA) functionality w/ clear use of the service worker
-[x]* API connection to your own API that is cloud hosted
+* API connection to your own API that is cloud hosted
 * Comprehensive unit testing
 * OAuth2 with PKCE login w/ at least ONE third party provider
 * Clear usage of Websockets
